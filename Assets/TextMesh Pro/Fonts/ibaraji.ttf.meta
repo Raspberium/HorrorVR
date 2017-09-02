@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fe3188fbb3c0f304abf071204c096ab1
+timeCreated: 1499669184
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ibaraji
+  fontNames:
+  - ibaraji
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
